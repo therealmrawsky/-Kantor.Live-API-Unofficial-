@@ -21,7 +21,7 @@ You can install the required dependencies by running:
 
 Clone the repository:
 
-`git clone https://github.com/therealmrawsky/Kantor.Live-API-Unofficial/
+`git clone https://github.com/therealmrawsky/Kantor.Live-API-Unofficial/ &&
 cd Kantor.Live-API-Unofficial `
 
 ### Install dependencies:
