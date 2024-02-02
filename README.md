@@ -47,4 +47,4 @@ Note: The base URL is 'https://kantor.live/kantory/' by default. To modify the b
 Feel free to contribute to this project by opening issues or submitting pull requests.
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/therealmrawsky/Kantor.Live-API-Unofficial/blob/main/LICENSE) file for details.
