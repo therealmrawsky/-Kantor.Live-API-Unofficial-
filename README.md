@@ -21,8 +21,8 @@ You can install the required dependencies by running:
 
 Clone the repository:
 
-`git clone https://github.com/your-username/exchange-rate-scraper.git
-cd exchange-rate-scraper `
+`git clone https://github.com/therealmrawsky/Kantor.Live-API-Unofficial/
+cd Kantor.Live-API-Unofficial `
 
 ### Install dependencies:
 
