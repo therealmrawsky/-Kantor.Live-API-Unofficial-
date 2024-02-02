@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 from unidecode import unidecode
+import re
 
 app = Flask(__name__)
 
