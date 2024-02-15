@@ -41,6 +41,7 @@ GET /get_exchange_rates: Retrieves exchange rates.
 
 ## Example:
 [Try it here!](https://mrawsky.dev/)
+
 `curl http://localhost:9909/get_exchange_rates?city=gdansk&opened=yes `
 
 Note: The base URL is 'https://kantor.live/kantory/' by default. To modify the base URL update the script accordingly.
